@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"aplicación.manejo.soda"},{"l":"aplicación.manejo.soda.general"}];updateSearchResults();

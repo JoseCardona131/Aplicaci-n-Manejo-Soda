@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"aplicación.manejo.soda.general","l":"AccionServidora"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"aplicación.manejo.soda","l":"AplicaciónManejoSoda"}];updateSearchResults();
